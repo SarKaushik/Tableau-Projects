@@ -1,1 +1,43 @@
+# 📊 Tableau Stock Performance Dashboard  
 
+## 📌 Overview  
+The **Tableau Stock Performance Dashboard** is a powerful data visualization tool designed to provide **real-time, data-driven insights** into stock market performance.  
+
+This project integrates **Google Sheets with Tableau** to update stock data **every hour**, ensuring up-to-date market analysis and helping investors make informed decisions.  
+
+---
+
+## 🚀 Features  
+✅ **Individual Stock Performance** – Tracks price fluctuations, trends, and key indicators for each stock.  
+✅ **Days with High/Low Volatility** – Identifies the most and least volatile trading days based on historical price movements.  
+✅ **Weekly Average Stock Volatility** – Calculates the average stock volatility over a week to assess risk levels.  
+✅ **Top 3 Holdings** – Highlights the top-performing stocks in the portfolio based on performance metrics.  
+✅ **Portfolio Value** – Displays real-time portfolio valuation based on stock prices and asset allocation.  
+✅ **Profit and Loss (P&L)** – Computes overall profit and loss figures for better financial tracking.  
+✅ **Profit and Loss %** – Provides a percentage breakdown of gains or losses relative to the initial investment.  
+✅ **Portfolio Performance** – Summarizes overall portfolio performance using key performance indicators.  
+
+---
+
+## 🛠️ Technologies Used  
+- **Tableau** – Data visualization and dashboard creation  
+- **Google Sheets** – Stores stock data and updates every hour for near real-time analysis  
+- **Excel/CSV** – Additional data storage and preprocessing
+
+---
+
+---
+
+ 
+
+---
+
+
+## 📩 Contact  
+For any queries, reach out via:  
+📧 Email: sarvesh.kaushik48@gmail.com
+📍 LinkedIn: https://www.linkedin.com/in/sarveshkaushik24/
+
+---
+
+### ⭐ If you like this project, consider giving it a star on GitHub! ⭐  
