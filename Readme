@@ -1,7 +1,10 @@
 📊 Tableau Stock Performance Dashboard
 Overview
-The Tableau Stock Performance Dashboard is a powerful data visualization tool designed to provide real-time, data-driven insights into stock market performance. This project integrates Google Sheets with Tableau to update stock data every hour, ensuring up-to-date market analysis.
+The Tableau Stock Performance Dashboard is a powerful data visualization tool designed to provide real-time, data-driven insights into stock market performance. This project integrates Google Sheets with Tableau to update stock data every hour, ensuring up-to-date market analysis and informed decision-making.
 
+With interactive visualizations and analytical capabilities, the dashboard allows users to track individual stock performance, identify high/low volatility days, analyze portfolio trends, and measure overall profitability. It helps investors monitor their holdings in real time, assess risk factors, and optimize investment strategies based on key performance indicators.
+
+By leveraging automated data updates and dynamic reporting, this dashboard offers a comprehensive view of stock market movements, making it a valuable tool for traders, analysts, and portfolio managers.
 Dashboard Link:
 https://public.tableau.com/app/profile/sarvesh.kaushik/viz/StocksDashboard_17396707237860/StockPeformance?publish=yes
 
